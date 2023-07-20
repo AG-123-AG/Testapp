@@ -1,0 +1,19 @@
+h2{
+    color:red;
+    font-size:200px;
+}
+h3{
+    color:green;
+    font-size:30px
+}
+img{
+height:300px; 
+width:300px;   
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color:white;
+}
